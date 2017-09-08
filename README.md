@@ -1,6 +1,6 @@
 # acikakademikodlari
-
-This repository contains some of the codes that I used in my project during "Microsoft Türkiye Açık Akademi Yaz Okulu" program. Since most of the things were built in Azure Machine Learning Studio, it is not possible to present whole of the project here.
+//This report has not been completed yet. I will edit this soon.
+This repository contains some of the codes that I used in my project during "Microsoft Türkiye Açık Akademi Yaz Okulu" program. Since most of the things were built in Azure Machine Learning Studio, it is not possible to present whole of the project here. For my project I have used Ta Feng Grocery dataset.
 
 During the program I have tried to come up with a tool that analyzes grocery shopping data and offer each individual his/her specialized shopping list. But people's shopping habbits were not really consistent. Therefore, I could not create such tool.
 
